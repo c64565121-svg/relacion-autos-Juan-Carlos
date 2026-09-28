@@ -1,0 +1,40 @@
+RELACIÓN DE LOS AUTOS JUAN CARLOS
+PRUEBA SIN ANDROID STUDIO
+
+MÉTODO: GITHUB (GRATIS)
+
+1. Entra a https://github.com y crea una cuenta si todavía no tienes.
+2. Crea un repositorio nuevo.
+3. Descomprime este ZIP y sube TODO su contenido al repositorio.
+   Importante: también debe subirse la carpeta .github.
+4. En GitHub abre la pestaña "Actions".
+5. Abre "Generar APK Android".
+6. Pulsa "Run workflow" y luego "Run workflow".
+7. Cuando termine, entra al trabajo finalizado.
+8. En la sección "Artifacts" descarga:
+   RelacionAutosJuanCarlos-APK
+9. Descomprime ese archivo. Dentro estará:
+   app-debug.apk
+10. Pasa app-debug.apk a tu teléfono Android.
+11. En el teléfono toca el APK.
+12. Si Android lo pide, permite "Instalar aplicaciones desconocidas"
+    para el navegador o administrador de archivos que estés usando.
+13. Instala la aplicación.
+14. Al abrirla, concede permiso para usar la cámara.
+
+PRUEBA RECOMENDADA
+
+- Pulsa NUEVO REGISTRO.
+- Fotografía una placa de identificación que contenga el VIN/chasis.
+- Comprueba que el chasis aparezca en la ficha.
+- Si la placa incluye modelo y año, revisa si fueron reconocidos.
+- Si solo fotografiaste el chasis, escribe manualmente el modelo.
+- Escribe el nombre del mecánico.
+- Escribe las observaciones.
+- Pulsa GUARDAR REGISTRO.
+- Abre INVENTARIO y comprueba que aparezca el vehículo.
+- Desde la ficha prueba GENERAR WORD.
+
+NOTA
+Esta es una versión de prueba. El módulo de sincronización por red todavía
+no está conectado a un servidor central.
